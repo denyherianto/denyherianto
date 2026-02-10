@@ -1,104 +1,103 @@
-# Hi, I’m Deny 👋
+# Hey, I’m Deny 👋
 
-Senior Frontend Engineer focused on **AI-powered products, complex UI systems, and real-world scale**.
+Senior Frontend Engineer who enjoys turning **complex systems into interfaces people actually trust**.
 
-I build interfaces where **latency, trust, and clarity** matter — especially for **LLM-driven experiences**, internal tools, and data-heavy applications. My work sits between frontend architecture, AI interaction design, and pragmatic system thinking shaped by production constraints.
-
----
-
-## 🧠 What I work on
-
-- **LLM-powered chat & copilot UIs**  
-  Streaming responses (SSE), non-blocking UX, context-aware follow-ups, error recovery, and rich output rendering (Markdown, KaTeX).
-
-- **Large-scale frontend systems**  
-  React / Next.js apps serving millions of users with performance, accessibility, and testability as first-class concerns.
-
-- **Product & platform engineering**  
-  Reusable UI systems, shared patterns, and tooling teams actually adopt.
-
-- **Applied AI experiments**  
-  Multi-agent pipelines, confidence heuristics, and human-in-the-loop workflows where correctness matters.
+I spend most of my time building **AI-powered products**, large-scale frontend platforms, and internal tools that quietly carry a lot of responsibility. If an interface has to stay calm while the system behind it is doing something complicated or slow, that’s my comfort zone.
 
 ---
 
-## 🚀 Selected Work
+## 🧩 Things I like building
 
-### 🤖 LLM Chat Copilot (Production)
-Led frontend architecture for a real-time AI copilot used by **7K+ daily active users**.  
-Designed streaming UX, latency-aware interactions, robust error handling, and explainable outputs to balance speed, clarity, and user trust.
+- **LLM chat & copilot UIs**  
+  Streaming responses, non-blocking UX, context-aware follow-ups, graceful failures, and outputs that explain themselves instead of hallucinating confidently.
 
-**Stack:** React, TypeScript, SSE, Markdown, KaTeX
+- **Big frontends with small regrets**  
+  React / Next.js apps used by millions, designed to stay fast, testable, and understandable six months later.
+
+- **Tools teams keep using**  
+  Shared UI systems, internal dashboards, and developer tools that don’t need a meeting to explain.
+
+- **AI experiments with guardrails**  
+  Multi-agent pipelines, confidence heuristics, and human-in-the-loop flows where correctness beats cleverness.
 
 ---
 
-### 🌍 Disaster Pulse (2025)
-Real-time disaster intelligence platform aggregating government, social, news, and user signals.
+## 🚀 A few things I’ve shipped
 
-- Multi-agent AI reasoning with spatiotemporal clustering
+### 🤖 AI Chat Copilot (Production)
+Frontend lead for a real-time AI copilot used by **7K+ daily users**.
+
+Designed streaming UX (SSE), latency-aware interactions, error recovery, and rich output rendering (Markdown, KaTeX) so users feel informed, not confused, while the model thinks.
+
+**Stack:** React, TypeScript, SSE
+
+---
+
+### 🌍 Disaster Pulse
+A real-time disaster intelligence platform that merges government data, social signals, news, and human input into high-confidence alerts.
+
+Under the hood:
+- Multi-agent AI reasoning
+- Spatiotemporal clustering
 - Confidence scoring to reduce false positives
-- Human-in-the-loop verification
-- Live geospatial dashboard for safety-critical use cases
+- A live geospatial dashboard for safety-critical decisions
 
-**Stack:** Next.js, NestJS, Gemini API, Redis, BullMQ, PostgreSQL, FCM
+**Stack:** Next.js, NestJS, Gemini API, Redis, BullMQ
 
 ---
 
-### 📍 Geocoding & Shipping Tool (Hackathon → Production)
-Built a geocoding system that reduced **Google Maps API usage by 90%** and won **1st place** in Bukalapak’s internal hackathon.  
-Later adopted into the core platform due to clear business impact.
+### 📍 Geocoding Tool (Hackathon → Core Platform)
+Built a geocoding system that cut **Google Maps API usage by 90%**, won **1st place** in an internal hackathon, and was adopted into production because it saved real money.
 
 ---
 
 ### 🧪 Mock Studio
-Chrome DevTools extension for mocking HTTP APIs locally.
+A Chrome DevTools extension for mocking HTTP APIs locally.
 
-- Intercept & override responses
-- Custom payloads, headers, delays
-- AI-assisted mock generation from OpenAPI specs
+Intercept requests, fake responses, simulate delays, and even generate mocks with AI — so frontend work doesn’t have to wait for backend miracles.
 
 👉 https://mockstudio.app
 
 ---
 
-## ✍️ Writing & Knowledge Sharing
+## ✍️ I also write (because code isn’t enough)
 
-I write about frontend engineering, system design, and AI-assisted development — focusing on **why decisions are made**, not just how.
+I write about frontend engineering, system design, and AI-assisted development — mostly about **why tradeoffs exist**, not pretending they don’t.
 
-📚 Articles on DEV:  
+📚 Articles on DEV  
 👉 https://dev.to/denyherianto
 
 Topics include:
-- Designing frontend systems that scale
-- GeoJSON & geospatial data patterns
-- Role-based access & UI authorization
-- Performance, DX, and maintainable architecture
+- Scaling frontend systems without losing sanity
+- Geospatial & GeoJSON patterns
+- Role-based access control in real apps
+- Performance, DX, and architecture that survives contact with reality
 
 ---
 
-## 📈 Experience Highlights
+## 📈 Some context
 
-- Frontend platform serving **5M+ users**
+- Frontend platforms used by **5M+ users**
 - **8 consecutive performance cycles** rated *Exceeds Expectations*
 - Micro-frontend architecture at **30M+ MAU** scale
-- Repeated success shipping high-impact internal tools
+- Repeatedly trusted with high-impact, high-risk UI surfaces
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Tools I reach for
 
-**Frontend:** React, Next.js, TypeScript, Tailwind, Zustand, Redux  
-**AI UX:** LLM chat UI, streaming, prompt-aware design, confidence heuristics  
-**Backend:** Node.js, Redis, BullMQ, REST, GraphQL  
-**Testing:** Jest, RTL, Playwright (TDD & E2E)  
-**Cloud:** Docker, Kubernetes, AWS, GCP
+React · Next.js · TypeScript · Tailwind  
+LLM chat UX · Streaming (SSE) · Prompt-aware UI  
+Node.js · Redis · BullMQ · REST · GraphQL  
+Jest · Playwright  
+Docker · Kubernetes · AWS · GCP
 
 ---
 
-## 🌐 Elsewhere
+## 🌐 Elsewhere on the internet
 
 - Portfolio: https://denyherianto.com  
-- DEV.to: https://dev.to/denyherianto  
+- Writing: https://dev.to/denyherianto  
 - LinkedIn: https://www.linkedin.com/in/denyherianto  
 
-I care about building systems that hold up under real usage — not just demos.
+I like building things that hold up under real usage — and explaining how they work.
