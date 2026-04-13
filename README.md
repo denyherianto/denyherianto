@@ -1,4 +1,4 @@
-# Hey, I’m Deny 👋
+# Hey, I’m Danny 👋
 
 Senior Frontend Engineer who enjoys turning **complex systems into interfaces people actually trust**.
 
