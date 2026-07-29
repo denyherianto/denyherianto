@@ -14,6 +14,7 @@ I spend most of my time building **AI-powered products** and large-scale fronten
 - [Niteni - Gitlab AI Code Review](https://github.com/denyherianto/niteni) - AI code review for GitLab CI, powered by the Gemini.
 - [Expense Tracker](https://github.com/denyherianto/expense-tracker) - AI-powered expense tracking app using LLMs to parse and categorize expenses from text, voice, or receipt photos.
 - [SpotifyLyrics](https://github.com/denyherianto/SpotifyLyrics) - A floating karaoke overlay for macOS woth Romanization and Translation, using Apple on-device processing.
+- [Bite - Food Nutrition](https://github.com/denyherianto/food-nutrition) - Upload a meal photo, then let AI estimate the food and nutrients, review an FDA-style Nutrition Facts label, then chat naturally about the meal.
 
 ---
 
