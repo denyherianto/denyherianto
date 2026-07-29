@@ -9,7 +9,7 @@ I spend most of my time building **AI-powered products** and large-scale fronten
 ## Projects
 
 - [Relink](https://userelink.com/) - Read Later and AI Knowledge Base.
-- [Mock Studio](http://mockstudio.app/) - HTTP API Mock Chrome Extension.
+- [Mock Studio](http://mockstudio.app/) - HTTP API Mock Chrome Extension (5000+ users).
 - [Disaster Pulse](https://github.com/denyherianto/disaster-pulse) - Real-time disaster monitoring platform.
 - [Niteni - Gitlab AI Code Review](https://github.com/denyherianto/niteni) - AI code review for GitLab CI, powered by the Gemini.
 - [Expense Tracker](https://github.com/denyherianto/expense-tracker) - AI-powered expense tracking app using LLMs to parse and categorize expenses from text, voice, or receipt photos.
