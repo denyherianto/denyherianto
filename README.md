@@ -1,6 +1,6 @@
 # Hey, I’m Danny 👋
 
-Senior Frontend Engineer who enjoys turning **complex systems into interfaces people actually trust**.
+Senior Frontend Engineer who enjoys turning **complex systems into interfaces people actually enjoy using**.
 
 I spend most of my time building **AI-powered products** and large-scale frontend platforms.
 
